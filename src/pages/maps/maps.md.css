@@ -1,0 +1,9 @@
+ion-app.md maps-page .search-container .search-toolbar .bar-buttons .geolocation-button {
+  margin-left: 0px;
+  margin-right: -4px;
+}
+
+ion-app.md maps-page ion-searchbar .searchbar-input {
+  border-radius: 2.1rem !important;
+}
+/*# sourceMappingURL=maps.md.css.map */

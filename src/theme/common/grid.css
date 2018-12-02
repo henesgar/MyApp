@@ -1,0 +1,154 @@
+ion-col[width-100] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 100%;
+          flex: 0 0 100%;
+  max-width: 100%;
+}
+
+ion-col[width-90] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 90%;
+          flex: 0 0 90%;
+  max-width: 90%;
+}
+
+ion-col[width-80] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 80%;
+          flex: 0 0 80%;
+  max-width: 80%;
+}
+
+ion-col[width-75] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 75%;
+          flex: 0 0 75%;
+  max-width: 75%;
+}
+
+ion-col[width-72] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 72%;
+          flex: 0 0 72%;
+  max-width: 72%;
+}
+
+ion-col[width-70] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 70%;
+          flex: 0 0 70%;
+  max-width: 70%;
+}
+
+ion-col[width-67] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 67%;
+          flex: 0 0 67%;
+  max-width: 67%;
+}
+
+ion-col[width-66] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 66%;
+          flex: 0 0 66%;
+  max-width: 66%;
+}
+
+ion-col[width-65] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 65%;
+          flex: 0 0 65%;
+  max-width: 65%;
+}
+
+ion-col[width-64] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 64%;
+          flex: 0 0 64%;
+  max-width: 64%;
+}
+
+ion-col[width-60] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 60%;
+          flex: 0 0 60%;
+  max-width: 60%;
+}
+
+ion-col[width-57] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 57%;
+          flex: 0 0 57%;
+  max-width: 57%;
+}
+
+ion-col[width-50] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+  max-width: 50%;
+}
+
+ion-col[width-45] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 45%;
+          flex: 0 0 45%;
+  max-width: 45%;
+}
+
+ion-col[width-40] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 40%;
+          flex: 0 0 40%;
+  max-width: 40%;
+}
+
+ion-col[width-33] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 33%;
+          flex: 0 0 33%;
+  max-width: 33%;
+}
+
+ion-col[width-30] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 30%;
+          flex: 0 0 30%;
+  max-width: 30%;
+}
+
+ion-col[width-25] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 25%;
+          flex: 0 0 25%;
+  max-width: 25%;
+}
+
+ion-col[width-20] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 20%;
+          flex: 0 0 20%;
+  max-width: 20%;
+}
+
+ion-col[width-18] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 18%;
+          flex: 0 0 18%;
+  max-width: 18%;
+}
+
+ion-col[width-15] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 15%;
+          flex: 0 0 15%;
+  max-width: 15%;
+}
+
+ion-col[width-10] {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 10%;
+          flex: 0 0 10%;
+  max-width: 10%;
+}
+/*# sourceMappingURL=grid.css.map */

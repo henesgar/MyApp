@@ -1,0 +1,8 @@
+.scroll-bar-indicator {
+  opacity: 0;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+/*# sourceMappingURL=scroll-bar.css.map */

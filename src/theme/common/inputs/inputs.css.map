@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "inputs.scss",
+        "range.scss",
+        "checkbox.scss",
+        "radio.scss",
+        "checkbox-tags.scss",
+        "radio-tags.scss",
+        "switcher.scss",
+        "counter.scss",
+        "rating.scss",
+        "color-radio.scss"
+    ],
+    "names": [],
+    "file": "inputs.css"
+}

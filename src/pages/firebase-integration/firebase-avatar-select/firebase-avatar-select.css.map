@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,2BAA2B,CAAC;EAC3B,OAAO,EAAE,KAAK;EACd,MAAM,EAAE,IAAI;CACZ",
+    "sources": [
+        "firebase-avatar-select.scss"
+    ],
+    "names": [],
+    "file": "firebase-avatar-select.css"
+}

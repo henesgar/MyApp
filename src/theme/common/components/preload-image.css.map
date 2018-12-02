@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "preload-image.scss"
+    ],
+    "names": [],
+    "file": "preload-image.css"
+}

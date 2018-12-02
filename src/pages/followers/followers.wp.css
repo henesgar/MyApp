@@ -1,0 +1,12 @@
+ion-app.wp followers-page ion-searchbar {
+  background: transparent;
+}
+
+ion-app.wp followers-page ion-searchbar .searchbar-input-container {
+  border-radius: 1.6rem;
+}
+
+ion-app.wp followers-page ion-searchbar .searchbar-input {
+  border-radius: 1.5rem;
+}
+/*# sourceMappingURL=followers.wp.css.map */

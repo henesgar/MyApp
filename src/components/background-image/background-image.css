@@ -1,0 +1,25 @@
+background-image {
+  display: block;
+  position: relative;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-transition: all ease-in-out .3s;
+  transition: all ease-in-out .3s;
+}
+
+background-image .bg-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  opacity: 0.6;
+}
+
+background-image.img-loaded ion-spinner {
+  visibility: hidden;
+  display: none;
+}
+/*# sourceMappingURL=background-image.css.map */

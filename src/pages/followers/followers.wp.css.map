@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEE,OAFK,AAAA,GAAG,CACT,cAAc,CACb,aAAa,CAAC;EACb,UAAU,EAAE,WAAW;CAWvB;;AAdH,AAKG,OALI,AAAA,GAAG,CACT,cAAc,CACb,aAAa,CAGZ,0BAA0B,CAC1B;EACC,aAAa,EAAE,MAAM;CACrB;;AARJ,AAUG,OAVI,AAAA,GAAG,CACT,cAAc,CACb,aAAa,CAQZ,gBAAgB,CAChB;EACC,aAAa,EAAE,MAAM;CACrB",
+    "sources": [
+        "followers.wp.scss"
+    ],
+    "names": [],
+    "file": "followers.wp.css"
+}

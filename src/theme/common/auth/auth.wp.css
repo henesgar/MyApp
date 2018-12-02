@@ -1,0 +1,30 @@
+ion-app.wp .auth-content .auth-form .item {
+  padding: 0px;
+}
+
+ion-app.wp .auth-content .auth-form .item .item-inner {
+  padding: 0px;
+}
+
+ion-app.wp .auth-content .auth-form .item .text-input {
+  padding: 0px 0.6rem;
+}
+
+ion-app.wp .auth-content .auth-form .show-hide-password .type-toggle {
+  height: 3rem;
+  margin: 15px 0px;
+}
+
+ion-app.wp .auth-content .auth-form .show-hide-password .type-toggle .show-option,
+ion-app.wp .auth-content .auth-form .show-hide-password .type-toggle .hide-option {
+  line-height: 3rem;
+  font-size: 2.4rem;
+  height: inherit;
+}
+
+ion-app.wp .auth-content .auth-form .show-hide-password .type-toggle .show-option:not(ion-icon),
+ion-app.wp .auth-content .auth-form .show-hide-password .type-toggle .hide-option:not(ion-icon) {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+/*# sourceMappingURL=auth.wp.css.map */

@@ -1,0 +1,42 @@
+preload-image {
+  position: relative;
+  width: 100%;
+  display: block;
+  overflow: hidden;
+}
+
+preload-image.rounded-image {
+  border-radius: 50%;
+}
+
+preload-image.img-loaded {
+  background-color: transparent;
+  border: none;
+}
+
+preload-image.img-loaded img {
+  visibility: visible;
+  opacity: 1;
+}
+
+preload-image.img-loaded ion-spinner {
+  visibility: hidden;
+  display: none;
+}
+
+preload-image img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: visibility 0s linear, opacity 0.5s linear;
+  transition: visibility 0s linear, opacity 0.5s linear;
+  width: 100% !important;
+  height: inherit !important;
+  max-width: inherit !important;
+  max-height: inherit !important;
+  min-width: inherit !important;
+  min-height: inherit !important;
+}
+/*# sourceMappingURL=preload-image.css.map */
